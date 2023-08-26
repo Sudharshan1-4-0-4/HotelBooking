@@ -1,0 +1,339 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background {
+    background-image: url("back.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card11 {
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 7px;
+}
+
+.heading {
+    color: #f19116;
+    font-family: Bree serif;
+}
+
+.para {
+    color: #f19116;
+    font-family: Bree serif;
+}
+.para1{
+    color: black;
+}
+
+.button {
+    color: white;
+    background-color: transparent;
+    border-color: #f19116;
+    align-self: center;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.back {
+    background-image: linear-gradient(black, #20201d);
+    background-size: cover;
+    padding: 0px;
+}
+
+.img {
+    height: 270px;
+    border-radius: 5px;
+    margin-right: 6px;
+}
+
+
+.heading2 {
+    font-size: 40px;
+    color: black;
+
+}
+
+.card1 {
+    background-image: linear-gradient(#b2c8eb, #e1e4e8);
+    border-radius: 10px;
+    margin: 30px;
+    
+    
+    
+}
+.cardinner{
+    height: 330px;
+}
+
+.img3 {
+    height: 400px;
+    width: 100%;
+}
+.inner{
+    background-color: black;
+}
+
+.img4 {
+    height: 25px;
+}
+
+.card3 {
+    
+    padding: 30px;
+}
+
+.head {
+    color: orange;
+    font-family: Bree serif;
+    font-size: 30px;
+}
+
+.p {
+    color: white;
+    margin-left: 10px;
+}
+
+.hhh {
+    color: white;
+}
+
+.button3 {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border-color: #f19116;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.button4 {
+    background-color: #f19116;
+    color: white;
+    padding: 10px;
+    border-color: #f19116;
+    margin-left: 3px;
+    border-radius: 10px;
+}
+
+.hh {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.royal-logo {
+    width: 80px;
+    height: 70px;
+    border-radius: 100px;
+    
+}
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+.bgnav {
+    background-image: linear-gradient(to right,#2c473d, black);
+}
+.like-icon {
+    
+    color: #f19116;
+    font-size: 40px;
+}
+
+.like-button {
+    border-color: #f19116;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    color: #f19116;
+    border-radius: 8px;
+}
+
+
+
+
+
+.feedbackex {
+    border-radius: 50px;
+}
+
+.feedbackpart {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+
+
+.feedbackpara1 {
+    color: #9aa5b1;
+}
+
+.feedbackheading1 {
+    color: white;
+}
+
+.feedbackimage {
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+
+
+
+.feedbackpara {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.feedbackheading {
+    color: rgb(232, 240, 230);
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+.icon1{
+    color: #d6d4cb;
+    
+}
+.footer-section {
+    background-image: radial-gradient(#6e6e6a, #080808);
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.text{
+    font-size: 30px;
+}
+
+
+
+  
+
+
+
+
+
+
+.list{
+    list-style-type: none ;
+    padding-left: 0;
+}
+.hrf{
+    background-color: #5a7184;
+}
+.copyf{
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.custom{
+    backdrop-filter: blur(8px);
+}
+    
+.model-header-style {
+    background-color: #ace7e8;
+}
+.model-body-style {
+    background-color: #cceff0;
+}
+
+.card-register {
+    
+    text-align: center;
+    height: 100vh;
+
+    
+}
+
+
+
+.royal-section {
+    padding: 2px;
+    margin: 0px;
+}
+.royal-logo1{
+    width: 150px;
+    height: 130px;
+    border-radius: 150px;
+}
+
+
+
+.royal-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.royal-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
